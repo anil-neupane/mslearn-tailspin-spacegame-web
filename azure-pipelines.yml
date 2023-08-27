@@ -1,3 +1,5 @@
+trigger:
+- 'main'
 pool: MyAgentPool
 steps:
 - bash: echo hello world
